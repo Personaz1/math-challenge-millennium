@@ -1,0 +1,1 @@
+Formalization workspace. Label each problem precisely: conjecture, statement formalized, partial lemma, candidate proof, kernel-checked proof, or reviewed correspondence. Preserve upstream files/licences. Do not present placeholders as solutions. Pin Lean/mathlib and verification commands.
