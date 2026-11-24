@@ -1,3 +1,5 @@
+> **Personaz1 fork note:** This repository is a fork of [lixiang90/math-challenge-millennium](https://github.com/lixiang90/math-challenge-millennium). The upstream README below describes the challenge workspaces. This fork should not be presented as an independently authored theorem-proving platform; preserve upstream attribution and verify any local changes against the upstream history.
+
 # Math-Challenge Millennium Prize Problems
 
 This public repository contains the standalone Lean workspaces used by
